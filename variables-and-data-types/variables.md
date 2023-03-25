@@ -31,6 +31,7 @@ age = None
 
 ## 🗝️ Types of variables
 - **Standard**: Variables, by their name, are subject to change. So the value of a variable is not (necessarily) continuous and can change.
+
 ```python
 # python
 age = 23
@@ -61,10 +62,9 @@ let ageOrName: any = 24;
 ageOrName = 'Alexander Jaye' // This works 👍
 ```
 
-
 ---
 
-## Quick Exercises
+## 🎽Quick Exercises
 <sub>*In your programming language of choice...*</sub>
 1. Assign and print to the console the value of 42 to a variable named `meaningOfLife`
 2. Now assign the value of 180 to the `meaningOfLife` and print it to the console
