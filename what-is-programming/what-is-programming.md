@@ -15,7 +15,7 @@ However, be warned. While I think programming can be learned by anyone, mastery 
 
 At the heart of this point is: Understand why you are looking to learn programming and understand what your end goal. Anything is possible, but everything can't be achieved, so understanding exactly how long you are along for the ride should determine how much you are willing to learn, and what your drive to learn and direction is.
 
-> Think of it as learning a foreign language. You may simply want to go on holiday and order in the native language.
+> Think of it as learning a foreign language. You may simply want to go on holiday and order in the native language. You may want to learn it well to talk to your partner in their native tongue. You may want to master it to become a foreign diplomat. You may want to master it to write poetry in that language. The level, duration and focus of your learning is shaped in all these cases by what you want to achieve and what your motivation is.
 
 ## 🤔 What constitutes programming?
 Programming is the process of writing a task, or series of tasks, for a computer to carry out.
