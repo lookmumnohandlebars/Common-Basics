@@ -1,7 +1,7 @@
 # Programming Basics 
 💬 *This course (& repository) is for those wanting to learn the basics of programming from the start. It is language agnostic (i.e. should apply to most languages one would want to learn)*
 
-*Suggested learning time c.6 hours*
+*Suggested learning time c.6 hours + optional extras, with the idea this could take a week of evenings before or a long weekend before beginning with a specific programming language*
 
 ## Course Order
 > This is the recommended order of reading / following along.
