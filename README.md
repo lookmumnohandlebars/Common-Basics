@@ -16,6 +16,6 @@
 4. Functions
 5. Errors
 6. Collections And Objects
-7. Terminal And Basic Bash
+7. Bash Terminal
 8. Git & Github
  
