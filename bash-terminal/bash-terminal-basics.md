@@ -1,1 +1,9 @@
 Todo
+
+
+
+
+
+
+## Cheatsheet
+
